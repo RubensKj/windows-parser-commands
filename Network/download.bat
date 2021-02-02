@@ -18,4 +18,3 @@ ECHO File name must be specified
 @ECHO ON
 ECHO Downloaded..
 @ECHO OFF
-PAUSE

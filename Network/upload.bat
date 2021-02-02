@@ -13,4 +13,3 @@ ECHO File must be specified
 @ECHO ON
 ECHO Uploaded..
 @ECHO OFF
-PAUSE
